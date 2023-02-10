@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 shreyas is a friend
+=======
+>>>>>>> 3fc79fb (created)
 uwevsivbsk
 wbvwbviwbwvb
